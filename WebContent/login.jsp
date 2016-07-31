@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Acesso</title>
+<title>Acesso do Sistema</title>
 </head>
 <body>
 	<div align="right" style="height: 35%;">
